@@ -1,0 +1,1 @@
+docker build . -t crossoverjie/k8s-combat:v1
